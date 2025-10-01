@@ -1,0 +1,9 @@
+openai
+streamlit
+langchain
+faiss-cpu
+pypdf
+python-pptx
+python-docx
+unstructured
+tqdm
